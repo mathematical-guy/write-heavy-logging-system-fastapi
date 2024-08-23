@@ -1,2 +1,2 @@
-# write-heavy-pokedex-fastapi
-write-heavy-pokedex-fastapi
+# write-heavy-logging-system-fastapi
+write-heavy-logging-system-fastapi
